@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tensor</string>
+    <string name="send_button_text">Send message</string>
+    <string name="read_button_text">Read</string>
+</resources>
